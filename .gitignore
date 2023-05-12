@@ -22,3 +22,4 @@ boardify/build
 boardify/npm-debug.log*
 boardify/yarn-debug.log*
 boardify/yarn-error.log*
+node_modules
